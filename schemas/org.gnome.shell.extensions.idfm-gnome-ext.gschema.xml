@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="idfm-gnome-ext">
+  <schema id="org.gnome.shell.extensions.idfm-gnome-ext" path="/org/gnome/shell/extensions/idfm-gnome-ext/">
+
+    <key name="api-key" type="s">
+      <default>''</default>
+      <summary>PRIM API key</summary>
+    </key>
+
+    <key name="watches" type="s">
+      <default>'[]'</default>
+      <summary>Watched lines</summary>
+      <description>JSON array of watched lines (stop, line, direction) with their display slots.</description>
+    </key>
+
+    <key name="refresh-interval" type="i">
+      <default>60</default>
+      <range min="15" max="600"/>
+      <summary>Refresh interval in seconds</summary>
+    </key>
+
+    <key name="max-departures" type="i">
+      <default>4</default>
+      <range min="1" max="10"/>
+      <summary>Departures shown per line in the menu</summary>
+    </key>
+
+    <key name="panel-departures" type="i">
+      <default>2</default>
+      <range min="1" max="4"/>
+      <summary>Departures shown per line in the top bar</summary>
+    </key>
+
+    <key name="panel-rotate-interval" type="i">
+      <default>6</default>
+      <range min="2" max="60"/>
+      <summary>Seconds before the top bar switches to the next line</summary>
+    </key>
+
+    <key name="panel-rotate-animation" type="s">
+      <default>'slide-down'</default>
+      <choices>
+        <choice value="slide-down"/>
+        <choice value="slide-up"/>
+        <choice value="slide-left"/>
+        <choice value="slide-right"/>
+        <choice value="fade"/>
+        <choice value="none"/>
+      </choices>
+      <summary>Transition animation for the rotation</summary>
+    </key>
+
+    <key name="hide-idle-icon" type="b">
+      <default>false</default>
+      <summary>Hide the icon outside display periods</summary>
+      <description>When on, the indicator disappears when no line is scheduled. Lines still appear during their period.</description>
+    </key>
+
+    <key name="highlight-enabled" type="b">
+      <default>true</default>
+      <summary>Highlight imminent departures in red</summary>
+    </key>
+
+    <key name="highlight-threshold" type="i">
+      <default>2</default>
+      <range min="0" max="30"/>
+      <summary>Highlight departures at or below this many minutes</summary>
+    </key>
+
+    <key name="blink-enabled" type="b">
+      <default>false</default>
+      <summary>Blink highlighted departures</summary>
+    </key>
+
+    <key name="blink-interval" type="i">
+      <default>800</default>
+      <range min="200" max="3000"/>
+      <summary>Blink cycle in milliseconds</summary>
+    </key>
+
+    <key name="blink-style" type="s">
+      <default>'smooth'</default>
+      <choices>
+        <choice value="smooth"/>
+        <choice value="strong"/>
+      </choices>
+      <summary>Blink style</summary>
+    </key>
+
+  </schema>
+</schemalist>

@@ -1,0 +1,10 @@
+{
+  "uuid": "idfm-gnome-ext@gaetanlhf.fr",
+  "name": "IDFM GNOME",
+  "description": "Next departures for Île-de-France public transport, right in your GNOME top bar.",
+  "version": 1,
+  "shell-version": ["46", "47", "48", "49", "50"],
+  "settings-schema": "org.gnome.shell.extensions.idfm-gnome-ext",
+  "gettext-domain": "idfm-gnome-ext",
+  "url": "https://github.com/gaetanlhf/idfm-gnome-ext"
+}

@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: idfm-gnome-ext\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "at stop"
+msgstr "à quai"
+
+msgid "now"
+msgstr "imminent"
+
+msgid "Invalid URL"
+msgstr "URL invalide"
+
+msgid "API key refused"
+msgstr "Clé API refusée"
+
+msgid "PRIM quota exceeded"
+msgstr "Quota PRIM dépassé"
+
+msgid "HTTP error"
+msgstr "Erreur HTTP"
+
+msgid "Unexpected response"
+msgstr "Réponse inattendue"
+
+msgid "Stop unknown to the realtime service"
+msgstr "Arrêt inconnu du service temps réel"
+
+msgid "Refresh"
+msgstr "Actualiser"
+
+msgid "Preferences"
+msgstr "Préférences"
+
+msgid "all directions"
+msgstr "tous les sens"
+
+msgid "Nothing configured. Open preferences to add a line."
+msgstr "Rien de configuré. Ouvrez les préférences pour ajouter une ligne."
+
+msgid "Loading…"
+msgstr "Chargement…"
+
+msgid "No upcoming departures"
+msgstr "Aucun départ à venir"
+
+msgid "Updated at"
+msgstr "Mis à jour à"
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgid "no day"
+msgstr "aucun jour"
+
+msgid "every day"
+msgstr "tous les jours"
+
+msgid "Mon-Fri"
+msgstr "Lun-Ven"
+
+msgid "never shown"
+msgstr "jamais affiché"
+
+msgid "Outbound"
+msgstr "Aller"
+
+msgid "Inbound"
+msgstr "Retour"
+
+msgid "PRIM API"
+msgstr "API PRIM"
+
+msgid "Free key from prim.iledefrance-mobilites.fr, under My authentication tokens."
+msgstr "Clé gratuite sur prim.iledefrance-mobilites.fr, dans Mes jetons d'authentification."
+
+msgid "API key"
+msgstr "Clé API"
+
+msgid "Get an API key"
+msgstr "Obtenir une clé API"
+
+msgid "Display"
+msgstr "Affichage"
+
+msgid "Refresh interval"
+msgstr "Intervalle de rafraîchissement"
+
+msgid "seconds"
+msgstr "secondes"
+
+msgid "Departures per line in the menu"
+msgstr "Départs par ligne dans le menu"
+
+msgid "Departures shown in the top bar"
+msgstr "Départs affichés dans la barre"
+
+msgid "Rotation duration"
+msgstr "Durée de rotation"
+
+msgid "seconds before switching to the next line"
+msgstr "secondes avant de passer à la ligne suivante"
+
+msgid "Slide down"
+msgstr "Glissement vers le bas"
+
+msgid "Slide up"
+msgstr "Glissement vers le haut"
+
+msgid "Slide left"
+msgstr "Glissement vers la gauche"
+
+msgid "Slide right"
+msgstr "Glissement vers la droite"
+
+msgid "Fade"
+msgstr "Fondu"
+
+msgid "None"
+msgstr "Aucune"
+
+msgid "Rotation animation"
+msgstr "Animation de rotation"
+
+msgid "Hide the icon when idle"
+msgstr "Cacher l'icône hors créneau"
+
+msgid "Lines still appear during their period"
+msgstr "Les lignes s'affichent quand même pendant leur créneau"
+
+msgid "Next departures"
+msgstr "Prochains départs"
+
+msgid "No API key set"
+msgstr "Aucune clé API"
+
+msgid "Add it in the API tab."
+msgstr "Ajoutez-la dans l'onglet API."
+
+msgid "One stop, one line, one direction."
+msgstr "Un arrêt, une ligne, un sens."
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Nothing yet"
+msgstr "Rien pour l'instant"
+
+msgid "Use the Add button above."
+msgstr "Utilisez le bouton Ajouter ci-dessus."
+
+msgid "Edit schedule"
+msgstr "Modifier les créneaux"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Removed"
+msgstr "Supprimé"
+
+msgid "Display schedule"
+msgstr "Créneaux d'affichage"
+
+msgid "Add a slot"
+msgstr "Ajouter un créneau"
+
+msgid "No slot"
+msgstr "Aucun créneau"
+
+msgid "This line will never show. Add one."
+msgstr "Cette ligne ne s'affichera jamais. Ajoutez-en un."
+
+msgid "Slot"
+msgstr "Créneau"
+
+msgid "Remove this slot"
+msgstr "Supprimer ce créneau"
+
+msgid "Start"
+msgstr "Début"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Days"
+msgstr "Jours"
+
+msgid "Enter your API key first (API tab)"
+msgstr "Renseignez d'abord votre clé API (onglet API)"
+
+msgid "Stop name (station, stop)"
+msgstr "Nom de l'arrêt (gare, station)"
+
+msgid "No stop found"
+msgstr "Aucun arrêt trouvé"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "No line at this stop"
+msgstr "Aucune ligne à cet arrêt"
+
+msgid "All directions"
+msgstr "Tous les sens"
+
+msgid "Departures in every direction"
+msgstr "Départs dans tous les sens"
+
+msgid "Already added"
+msgstr "Déjà ajouté"
+
+msgid "Direction"
+msgstr "Sens"
+
+msgid "Directions unavailable"
+msgstr "Sens indisponibles"
+
+msgid "Stop"
+msgstr "Arrêt"
+
+msgid "Try again later."
+msgstr "Réessayez plus tard."
+
+msgid "Imminent departures"
+msgstr "Départs imminents"
+
+msgid "Highlight in red"
+msgstr "Surligner en rouge"
+
+msgid "Threshold (minutes)"
+msgstr "Seuil (minutes)"
+
+msgid "Blink"
+msgstr "Faire clignoter"
+
+msgid "Blink style"
+msgstr "Style de clignotement"
+
+msgid "Smooth"
+msgstr "Fondu"
+
+msgid "Strong"
+msgstr "Fort"
+
+msgid "Blink speed (ms)"
+msgstr "Vitesse (ms)"
+
+msgid "General"
+msgstr "Général"

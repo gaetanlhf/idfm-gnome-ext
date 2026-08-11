@@ -1,0 +1,115 @@
+.idfm-gnome-panel-item {
+    spacing: 5px;
+    padding-left: 4px;
+}
+
+.idfm-gnome-panel-minutes {
+    font-weight: bold;
+}
+
+.idfm-gnome-panel-imminent {
+    font-weight: bold;
+    color: #f66151;
+}
+
+.idfm-gnome-line-badge {
+    font-weight: bold;
+    font-size: 0.9em;
+    text-align: center;
+    min-width: 20px;
+    padding: 0 4px;
+}
+
+.idfm-gnome-badge-metro {
+    border-radius: 99px;
+}
+
+.idfm-gnome-badge-rer {
+    border-radius: 6px;
+}
+
+.idfm-gnome-badge-tram {
+    border-radius: 4px;
+}
+
+.idfm-gnome-badge-bus {
+    border-radius: 4px;
+}
+
+.idfm-gnome-menu {
+    padding-top: 8px;
+}
+
+.idfm-gnome-row {
+    padding: 3px 12px;
+}
+
+.idfm-gnome-watch {
+    spacing: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.idfm-gnome-line-divider {
+    padding: 4px 0;
+}
+
+.idfm-gnome-line-divider .idfm-gnome-dot {
+    width: 4px;
+    height: 4px;
+    min-height: 4px;
+    border-radius: 99px;
+}
+
+.idfm-gnome-departure {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.idfm-gnome-stop-header {
+    font-weight: bold;
+    padding: 2px 12px 4px 12px;
+}
+
+.idfm-gnome-sep {
+    padding: 9px 12px;
+}
+
+.idfm-gnome-destination {
+    padding-left: 0;
+}
+
+.idfm-gnome-time {
+    font-weight: bold;
+    padding-left: 8px;
+}
+
+.idfm-gnome-time-imminent {
+    color: #f66151;
+    font-weight: bold;
+    padding-left: 8px;
+}
+
+.idfm-gnome-status {
+    font-style: italic;
+}
+
+.idfm-gnome-updated {
+    font-size: 0.85em;
+    padding: 2px 12px 6px 12px;
+}
+
+.idfm-gnome-footer {
+    spacing: 8px;
+    padding-top: 6px;
+    padding-bottom: 10px;
+}
+
+.idfm-gnome-action {
+    spacing: 8px;
+}
+
+.idfm-gnome-action-button {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}

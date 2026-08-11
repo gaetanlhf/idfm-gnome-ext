@@ -1,0 +1,3 @@
+# Build artifacts produced by install.sh
+schemas/gschemas.compiled
+locale/**/*.mo
